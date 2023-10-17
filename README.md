@@ -1,2 +1,5 @@
-# JoCProjects
-My name is Andrea Carrillo. I am a starting Software Developer and this is my first repo in GitHub in which I work in a python program that implements the turtle library
+# turtle-party-project
+My first repo in GitHub in which I work in a python program that implements the turtle library
+by Andrea Carrillo.
+
+The turtle library is very fun to work with, you can create all kinds of shapes and patterns in different colors, it is a good way to get started with Python.
